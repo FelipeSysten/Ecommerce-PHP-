@@ -1,0 +1,1 @@
+	<h2> Esta é a pagina de produtos info</h2>
